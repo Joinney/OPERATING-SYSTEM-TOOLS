@@ -42,7 +42,7 @@
 - SCAN:
 <img align="" alt="Coding" width="400" src="https://github.com/Joinney/OPERATING-SYSTEM-TOOLS/blob/main/SCAN.png" >
 - LOOK:
-<img align="" alt="Coding" width="400" src="https://github.com/Joinney/OPERATING-SYSTEM-TOOLS/blob/main/Worst_fit.png" >
+<img align="" alt="Coding" width="400" src="https://github.com/Joinney/OPERATING-SYSTEM-TOOLS/blob/main/LOOK.png" >
 - C-LOOK:
 <img align="" alt="Coding" width="400" src="https://github.com/Joinney/OPERATING-SYSTEM-TOOLS/blob/main/C-LOOK.png" >
 - C-SCAN:
