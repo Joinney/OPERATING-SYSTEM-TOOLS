@@ -37,13 +37,18 @@
 # IV. FCFS, SSTF, SCAN, LOOK, C-LOOK, C-SCAN:
 - FCFS:
 <img align="" alt="Coding" width="400" src="https://github.com/Joinney/OPERATING-SYSTEM-TOOLS/blob/main/FCFS2.png" >
+
 - SSTF:
 <img align="" alt="Coding" width="400" src="https://github.com/Joinney/OPERATING-SYSTEM-TOOLS/blob/main/SSTF.png" >
+
 - SCAN:
 <img align="" alt="Coding" width="400" src="https://github.com/Joinney/OPERATING-SYSTEM-TOOLS/blob/main/SCAN.png" >
+
 - LOOK:
 <img align="" alt="Coding" width="400" src="https://github.com/Joinney/OPERATING-SYSTEM-TOOLS/blob/main/LOOK.png" >
+
 - C-LOOK:
 <img align="" alt="Coding" width="400" src="https://github.com/Joinney/OPERATING-SYSTEM-TOOLS/blob/main/C-LOOK.png" >
+
 - C-SCAN:
 <img align="" alt="Coding" width="400" src="https://github.com/Joinney/OPERATING-SYSTEM-TOOLS/blob/main/C_SCAN.png" >
